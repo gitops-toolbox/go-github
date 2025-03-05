@@ -1,0 +1,4 @@
+version: "0.1"
+coverage: 0
+pr_prefix: gitops-toolbox
+branch_prefix: gitops-toolbox/
